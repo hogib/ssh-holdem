@@ -268,3 +268,4 @@ swallowed. Each has a test now, but none of them had one first.
 ## Special Thanks
 
 This project was made possible by the generous contributions of Mr Ali Tortop.
+We thank him for his unyielding support alongside Mr Cantürk Yıldızdal.
